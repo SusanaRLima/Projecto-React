@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          projectoreactapp é lixo :)
+          // ctrl + S para gravar
         </a>
       </header>
     </div>
