@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           projectoreactapp é lixo :)
-          // ctrl + S para gravar
+         
         </a>
       </header>
     </div>
